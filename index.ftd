@@ -1,40 +1,30 @@
--- ds.page: Welcome to doc-site
+-- import: fifthtry.github.io/doc-site as ds
+-- import: gargajit.github.io/expander as e 
+-- import: expander/assets
+-- import: fifthtry.github.io/admonitions as cbox  
+-- import: fastn-community.github.io/winter-cs
+-- ds.page: Swap
+site-logo: $assets.files.images.logo.svg
+colors: $winter-cs.main
 
+Hey, I am Swapnendu Banerjee and want to let you know that I am a full stack web developer and the co-founder of an amazin students' community NoobCode.
+-- ds.h1: About this page
 
-⚡️ `doc-site` will help you create a beautiful documentation site in no time.
+This is the blog website that contains
 
-It provides out-of-the-box documentation features that can be used to create any
-kind of site(personal website, blog, etc).
+- About me
+- My projects
+- My blogs
+- My contact details
+- My social media links
 
-[Click here](https://fastn-community.github.io/doc-site/) to read doc-site
-documentation.
+-- e.box: Hello Guys!
 
--- ds.h3: 🚀 Fast Track 
+Come to my profile and explore me
 
-Create your first fastn [web-site](https://fastn.com/expander/hello-world/-/build/) 
-project in just 5 minutes!
+-- cbox.info: A special Note
 
--- ds.h3: 🌟 Whats next?
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!Just keep coding and learning!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-Create your first page. 
-[Click here to know more](https://fastn-community.github.io/doc-site/components/page/).
-
--- ds.h3: 👀 Want to learn more?
-
-Feel free to check [our expander course](https://fastn.com/expander/) or jump
-into our [FifthTry Discord server](https://discord.gg/bucrdvptYd).
-
-
--- ds.h3: 🎯 Used by?
-
-Our all documentation sites uses this `doc-site` theme.
-
-- [fastn.com](https://fastn.com/home/)
-- [FifthTry.com](https://www.fifthtry.com/)
-
--- ds.h2: Learn fastn and become a pro?
-
-You are one click away, just check [our documentation](https://fastn.com/) and 
-dont forget to jump into our [FifthTry Discord server](https://discord.gg/bucrdvptYd).
 
 -- end: ds.page

@@ -2,6 +2,11 @@
 
 -- fastn.package: swapnendu003.github.io/fastn-challenge-4
 favicon: /-/swapnendu003.github.io/fastn-challenge-4/favicon.ico
+-- fastn.package: expander
+-- fastn.dependency: fifthtry.github.io/doc-site
+-- fastn.dependency: gargajit.github.io/expander
+-- fastn.dependency: fastn-community.github.io/winter-cs
+-- fastn.dependency: fifthtry.github.io/admonitions
 
 -- fastn.dependency: fastn-community.github.io/doc-site as doc-site
 -- fastn.dependency: fastn-community.github.io/footer
